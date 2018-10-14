@@ -20,7 +20,7 @@ a {
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
-.play {
+.play-button {
 	display: block;
 	font-size: 16px;
 	text-align: center;
@@ -37,7 +37,7 @@ a {
 	text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 
-.play:hover {
+.play-button:hover {
   display: block;
   width: 150px;
   margin: 0 auto;
