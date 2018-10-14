@@ -59,4 +59,5 @@ a {
     width: 100%;
 	overflow-y: auto;
 	overflow-x: hidden;
+	font-family: monospace;
 }
