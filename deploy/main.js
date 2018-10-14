@@ -203,7 +203,7 @@ function dumpLeaderboard()
 					logTrace("   Solution "+(nodeIdx+1)+"\n");
 					
 					var playback = [];
-					var node = scoreGroup[0];
+					var node = scoreGroup[nodeIdx];
 					while (node != null)
 					{
 						playback.unshift(node);
